@@ -1,4 +1,5 @@
 body{
     background-image: url("drop.jpg");
     -webkit-text-fill-color: whitesmoke;
+    background-repeat: no-repeat;
 }
